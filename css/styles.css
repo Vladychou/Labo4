@@ -1,0 +1,26 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("../images/imagelabo4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    padding-left: 40px;
+    color: white;
+}
+.Producer {
+    color: yellowgreen;
+    font-size: 25px;
+    list-style: none;
+    padding-left: 20px;
+}
+.Film {
+    list-style-type: upper-latin;
+    color: white;
+    font-size: 15px;
+}
+.Acteurs {
+    list-style-type: disc;
+    color: white;
+    font-size: 15px;
+}
